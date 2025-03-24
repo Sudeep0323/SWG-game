@@ -1,5 +1,5 @@
+#Welcome to the snake ,water or gun game!
 import random
-
 
 dict={"snake":-1,
      "water":0,
